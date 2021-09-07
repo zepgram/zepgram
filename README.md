@@ -1,6 +1,6 @@
 <h3>Hello there 👋</h3>
 
-I'm Benjamin Calef, Magento Developer since 2016, I spend some of my time to provide generic solutions to help the Magento community and to make them flourishing for the ecosystem.
+I'm Benjamin Calef, Magento Developer since 2016, I spend some of my time to provide generic solutions to help the Magento community and to make them flourishing in the ecosystem.
 I'm fully dedicated to web development and especially to e-commerce. 
 
 I often say that I'm lucky because my job is also my hobby.<br>
