@@ -7,8 +7,8 @@ My current and future project shared on GitHub are free and will remain so.
 
 
 <a href="https://github.com/zepgram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zepgram&show_icons=true&theme=github_dark&hide=contribs&count_private=true&custom_title=Zepgram's%20%GitHub%20%stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepgram&layout=compact&theme=github_dark" />
 </a>
 <a href="https://github.com/zepgram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepgram&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zepgram&show_icons=true&theme=github_dark&hide=contribs&count_private=true&custom_title=Zepgram's%20%GitHub%20%stats" />
 </a>
