@@ -12,3 +12,5 @@ My current and future project shared on GitHub are free and will remain so.
 <a href="https://github.com/zepgram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepgram&layout=compact&theme=github_dark" />
 </a>
+
+My Developer Assistant is available here: https://chat.openai.com/g/g-5XzTtj9VN-magentogpt
