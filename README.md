@@ -11,11 +11,11 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> 12 years building e-commerce at scale. Now shipping 3x faster with AI. The game changed, I adapted.
+> Building e-commerce at scale. Now shipping 3x faster with AI. The game changed, I adapted.
 
 ## Popular Projects
 
-- 🚀 **[magento2-fast-vm](https://github.com/zepgram/magento2-fast-vm)** - Optimal Vagrant box for Magento 2 developers. NFS/rsync sync, dev utilities included. ⭐105
+- 📊 **[magento2-sonarqube](https://github.com/zepgram/magento2-sonarqube)** - SonarQube quality profiles tailored for Magento 2 projects. ⭐8
 - 🔍 **[module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine)** - Disable OpenSearch/Elasticsearch in Magento 2. No more search engine headaches. ⭐87
 - ⚡ **[module-multi-threading](https://github.com/zepgram/module-multi-threading)** - Process large datasets fast with multi-threading in Magento 2. ⭐81
 - 🚢 **[module-zero-downtime-deployment](https://github.com/zepgram/module-zero-downtime-deployment)** - Zero downtime deployments for Magento 2. Production-ready. ⭐23
