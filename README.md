@@ -50,6 +50,8 @@
 
 ### Philosophy
 
+> "It works or it doesn't. There's no in-between."
+
 > "The tool is never the problem. It's what's between the chair and the keyboard."
 
 I build tools to solve real problems, then share them for free. Currently exploring how AI changes everything about software development.
