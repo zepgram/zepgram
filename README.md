@@ -37,7 +37,7 @@
 
 - **CTO at a major fashion retailer** - Leading tech for millions of users
 - **AI-native development** - 6 months in production with AI-assisted coding
-- **Building in public** - Sharing learnings on AI workflows (article coming soon)
+- **Building in public** - Open sourcing tools and sharing what I learn
 - **Open source** - Giving back to the Magento community
 
 ## Connect
