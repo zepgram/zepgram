@@ -40,10 +40,6 @@
 - **Building in public** - Sharing learnings on AI workflows (article coming soon)
 - **Open source** - Giving back to the Magento community
 
-## Tools
-
-- 🤖 **[MagentoGPT](https://chat.openai.com/g/g-5XzTtj9VN-magentogpt)** - My custom GPT for Magento developers
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@zepgram-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zepgram)
