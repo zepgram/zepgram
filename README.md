@@ -15,14 +15,14 @@
 
 ## Popular Projects
 
-- 📊 **[magento2-sonarqube](https://github.com/zepgram/magento2-sonarqube)** - SonarQube quality profiles tailored for Magento 2 projects. ⭐8
 - 🔍 **[module-disable-search-engine](https://github.com/zepgram/module-disable-search-engine)** - Disable OpenSearch/Elasticsearch in Magento 2. No more search engine headaches. ⭐87
 - ⚡ **[module-multi-threading](https://github.com/zepgram/module-multi-threading)** - Process large datasets fast with multi-threading in Magento 2. ⭐81
 - 🚢 **[module-zero-downtime-deployment](https://github.com/zepgram/module-zero-downtime-deployment)** - Zero downtime deployments for Magento 2. Production-ready. ⭐23
 - 🔧 **[magento2-code-maker](https://github.com/zepgram/magento2-code-maker)** - Code generator for Magento 2 modules. ⭐15
 - 🔐 **[magento-dotenv](https://github.com/zepgram/magento-dotenv)** - Symfony Dotenv implementation for Magento 2. ⭐13
 - 🌐 **[module-rest](https://github.com/zepgram/module-rest)** - Industrialized REST API client with Guzzle DI. ⭐12
-- 📊 **[pi-dashboard](https://github.com/zepgram/pi-dashboard)** - Real-time Raspberry Pi monitoring with modern UI.
+- 📊 **[magento2-sonarqube](https://github.com/zepgram/magento2-sonarqube)** - SonarQube quality profiles tailored for Magento 2 projects. ⭐8
+- 📈 **[pi-dashboard](https://github.com/zepgram/pi-dashboard)** - Real-time Raspberry Pi monitoring with modern UI.
 
 ## GitHub Stats
 
