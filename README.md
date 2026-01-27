@@ -3,9 +3,9 @@
 📍 **France** | 🛒 **E-commerce CTO** | 💼 **Freelance since 2019** | 🤖 **AI-native builder**
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
+![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=adobecommerce&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
