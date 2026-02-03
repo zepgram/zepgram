@@ -24,15 +24,6 @@
 - 📊 **[magento2-sonarqube](https://github.com/zepgram/magento2-sonarqube)** - SonarQube quality profiles tailored for Magento 2 projects. ⭐8
 - 📈 **[pi-dashboard](https://github.com/zepgram/pi-dashboard)** - Real-time Raspberry Pi monitoring with modern UI.
 
-## GitHub Stats
-
-<a href="https://github.com/zepgram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zepgram&show_icons=true&theme=github_dark&hide=contribs&count_private=true&custom_title=GitHub%20Stats" />
-</a>
-<a href="https://github.com/zepgram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepgram&layout=compact&theme=github_dark" />
-</a>
-
 ## What I'm Doing
 
 - **CTO at a major fashion retailer** - Leading tech for millions of users
