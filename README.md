@@ -22,7 +22,7 @@
 - 🔐 **[magento-dotenv](https://github.com/zepgram/magento-dotenv)** - Symfony Dotenv implementation for Magento 2. ⭐13
 - 🌐 **[module-rest](https://github.com/zepgram/module-rest)** - Industrialized REST API client with Guzzle DI. ⭐12
 - 📊 **[magento2-sonarqube](https://github.com/zepgram/magento2-sonarqube)** - SonarQube quality profiles tailored for Magento 2 projects. ⭐8
-- 📈 **[pi-dashboard](https://github.com/zepgram/pi-dashboard)** - Real-time Raspberry Pi monitoring with modern UI.
+- 📈 **[pi-dashboard](https://github.com/zepgram/pi-dashboard)** - Real-time Raspberry Pi monitoring with modern UI. ⭐7
 
 ## What I'm Doing
 
