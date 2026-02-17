@@ -34,7 +34,7 @@
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@zepgram-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zepgram)
-[![LinkedIn](https://img.shields.io/badge/-Benjamin_Calef-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-music/)
+[![LinkedIn](https://img.shields.io/badge/-Benjamin_Calef-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-calef/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zepgram)
 
 ---
